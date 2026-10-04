@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+numpy
+python-multipart
+pydantic>=2.12.5,<3
+starlette>=0.40.0
